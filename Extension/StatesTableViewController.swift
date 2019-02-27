@@ -170,7 +170,6 @@ extension StatesTableViewController {
     }
 }
 
-
 // MARK: - Navigation between view controllers
 
 extension StatesTableViewController {
